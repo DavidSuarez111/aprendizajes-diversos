@@ -1,0 +1,17 @@
+Metodologías Agiles -Scrum
+
+1. Es una forma de trabajo. 
+    Se puede usar para el desarrollo ágil de software
+2. Un proceso de aplicar de forma regular buenas prácticas para trabajar colaborativamente y obtener resultados. 
+3. Orientado a mejora continua. 
+
+Separado. No se puede seguir hasta acabar con un punto, modelo de cascadas. 
+
+¿Cómo aplicar Scrum-Ágiles? 
+Roles: 
+    Product owner. Representante del cliente provee reglas y requerimientos. -Representación -sutil- de inversores y usuarios. 
+    Scrum Master. Lidera el equipo y se encarga que se cumplan las reglas del marco de scrum. Divide tareas y objetivos, establece fechas. 
+    Equipo de Sistemas/Desarrollo. Analistas, QAs, desarrolladores y cualquier miembro que colabore con el proceso de desarrollo de software, su implementación y futuro mantenimiento. 
+
+
+
