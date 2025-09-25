@@ -20,6 +20,17 @@ ED hace la chamba en múltiples ramas a la vez buscando palomear pequeñas tarea
 
 Suceden retroalimentaciones. SM dice que se cumplió y se pone a prueba por clientes como usuarios que hablaron con PO. Y se continúa si van faltando cosas. 
 A veces todos los internos están a favor pero a los clientes finales no les sirve bien o les gusta así que se tienen que hacer cambios y a iterar de nuevo. 
+Detalles: a veces el inversor quiere algún detalle y ni modo es el que financía tiene importancia. 
+
+Lo ideal es que el SM y PO tengan algo de conocimiento técnico para que la comunicación con el ED sea eficiente y empática. No sobreejercer presiones debido a ignorancia de los procesos.
+
+Diccionario de Scrum
+    Product Backlog: Lista priorizada de todas las funcionalidades, requisitos, mejoras y arreglos por incluir en el producto.
+    Sprint: Periodo fijo y corto en el que se acciona sobre desarrollo, prueba y entrega de software. 
+    User story: Breve descripción de una funcionalidad del producto desde la perspectiva del usuario. Algo que ha de ser integrado aunque venga en lenguaje no técnico. 
+
+
+
 
 
 
