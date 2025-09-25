@@ -9,9 +9,17 @@ Separado. No se puede seguir hasta acabar con un punto, modelo de cascadas.
 
 ¿Cómo aplicar Scrum-Ágiles? 
 Roles: 
-    Product owner. Representante del cliente provee reglas y requerimientos. -Representación -sutil- de inversores y usuarios. 
+    Product owner. Representante del cliente provee reglas y requerimientos. -Representación -sutil- de inversores y usuarios. Product owner hace entrevistas para entender los objetivos, analiza los procesos, prioriza, mantiene el registro de avances, mapas de procesos. 
     Scrum Master. Lidera el equipo y se encarga que se cumplan las reglas del marco de scrum. Divide tareas y objetivos, establece fechas. 
     Equipo de Sistemas/Desarrollo. Analistas, QAs, desarrolladores y cualquier miembro que colabore con el proceso de desarrollo de software, su implementación y futuro mantenimiento. 
+
+¿Cómo se ve en el día a día? 
+PO habla con usuarios y stakeholders. Genera una visión de producto, los procesos a realizar y contacta personas. 
+SM hace objetivos, tareas y establece fechas. Va a revisar que se cumplan va a hablar con los integrantes del equipo técnico en desarrollo. 
+ED hace la chamba en múltiples ramas a la vez buscando palomear pequeñas tareas e integrar el desarrollo. 
+
+Suceden retroalimentaciones. SM dice que se cumplió y se pone a prueba por clientes como usuarios que hablaron con PO. Y se continúa si van faltando cosas. 
+A veces todos los internos están a favor pero a los clientes finales no les sirve bien o les gusta así que se tienen que hacer cambios y a iterar de nuevo. 
 
 
 
