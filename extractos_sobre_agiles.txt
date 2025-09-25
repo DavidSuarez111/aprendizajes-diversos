@@ -32,11 +32,27 @@ Diccionario de Scrum
 okok. Incrementos. Cambios de antes para buscar mejorar un producto. Pueden ser incrementos en frontend o backend. Asumiendo sprints generalmente se integraría en 1 o 2 semanas en raras ocasiones menos. 
 
 Etapas - Ceremonias
-    Planificación de sprints. Al empezar se ocupa definir las tareas por rol. ED y PO. Se debe hacer lo más pronto y temprano posible. 
+    Planificación de sprints. Al empezar se ocupa definir las tareas por rol. ED y PO. Se debe hacer lo más pronto y temprano posible. 1 sola vez. 
         El problema más frecuente es que el ED sobreestime tiempos y el SM subestime. Se tiene que hacer las paces, negociar. Es válido comunicar algunos colchones de tiempo extra digno. Ser sinceros. 
             Herramienta: variable pero puede ser notion u otras. 
-    Daily SCRUM. Reunión diaria de máximo 15 minutos. El ED actualiza sobre el progreso hasta el momento. 
-        Responde ¿Qué hice ayer? ¿Qué haré hoy? ¿Hay algún impedimento?. objetivo: identificar obstáculos y fomentar la colaboración entre los miembros del equipo. 
+    Daily SCRUM. Reunión diaria de máximo 15 minutos. El ED actualiza sobre el progreso hasta el momento. Todos los días.
+        Responde ¿Qué hice ayer? ¿Qué haré hoy? ¿Hay algún impedimento?. objetivo: identificar obstáculos y fomentar la colaboración entre los miembros del equipo. Si hay problemas se ocupan atender pero no en el daily solo los involucrados. 
+    Sprint REVIEW. ED muestra el trabajo a PO y demás. Se retroalimenta. Se establecen nuevos objetivos para siguiente sprint. 
+        Aparecen bugs. Expectativas no alcanzadas. Se piden modificaciones. Se retoma lo previo para mejora. Puede generar burnout si algo no se arregla hasta generar renuncias o despidos. 
+    Sprint Retrospective. 
+        Se reflexiona sobre el trabajo, lo bueno, lo malo y lo mejorable. Se busca generar accionables para eficientar más el trabajo y aumentar la calidad de los productos siguientes. 
+            Este es un proceso interno, ya sin clientes externos usuarios o inversores. 
+            Verbos de accionables: stop, less, keep, more, start. 
+    
+Ejemplos de retrospective: 
+    Aprender una metodología, tecnología. 
+    Reducir peleas, mejorar comunicación. 
+    Menos reuniones, más dedicados al trabajo. 
+
+
+
+    
+
     
     
 

@@ -1,11 +1,23 @@
 SCRUM /Agiles 
 Sirve para transparencia y avance constante. Para que todos y todo quede bien.
 
+---
 SCRUM:   Ceremonias > Accionables por roles > Incrementos sobre Productos 
+---
 
+
+---
 Ceremonias
     Planificación
     1 vez. 1er día. 1era hora. 
 
     Daily SCRUM
     Diaria. 15 minutos. Abordar: (¿Qué hice? ¿Qué haré? ¿Obstáculos?.)  
+
+    Sprint REVIEW
+    Se enseña producto, se retroalimenta y se establecen nuevos objetivos priorizados para el siguiente incremento o sprint. 
+
+    Sprint Retrospective
+    Reflexión. Éxitos. Desafíos. Mejoras. 
+    
+---
