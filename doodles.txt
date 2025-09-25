@@ -1,0 +1,11 @@
+SCRUM /Agiles 
+Sirve para transparencia y avance constante. Para que todos y todo quede bien.
+
+SCRUM:   Ceremonias > Accionables por roles > Incrementos sobre Productos 
+
+Ceremonias
+    Planificación
+    1 vez. 1er día. 1era hora. 
+
+    Daily SCRUM
+    Diaria. 15 minutos. Abordar: (¿Qué hice? ¿Qué haré? ¿Obstáculos?.)  

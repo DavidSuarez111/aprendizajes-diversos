@@ -25,9 +25,24 @@ Detalles: a veces el inversor quiere algún detalle y ni modo es el que financí
 Lo ideal es que el SM y PO tengan algo de conocimiento técnico para que la comunicación con el ED sea eficiente y empática. No sobreejercer presiones debido a ignorancia de los procesos.
 
 Diccionario de Scrum
-    Product Backlog: Lista priorizada de todas las funcionalidades, requisitos, mejoras y arreglos por incluir en el producto.
-    Sprint: Periodo fijo y corto en el que se acciona sobre desarrollo, prueba y entrega de software. 
+    Product Backlog: Lista priorizada de todas las funcionalidades, requisitos, mejoras y arreglos por incluir en el producto. -Lo que falta hacer, tareas, arreglos, mejoras para tener listo el producto. 
+    Sprint: Periodo fijo y corto en el que se acciona sobre desarrollo, prueba y entrega de parcialidades o incrementales de software. 
     User story: Breve descripción de una funcionalidad del producto desde la perspectiva del usuario. Algo que ha de ser integrado aunque venga en lenguaje no técnico. 
+
+okok. Incrementos. Cambios de antes para buscar mejorar un producto. Pueden ser incrementos en frontend o backend. Asumiendo sprints generalmente se integraría en 1 o 2 semanas en raras ocasiones menos. 
+
+Etapas - Ceremonias
+    Planificación de sprints. Al empezar se ocupa definir las tareas por rol. ED y PO. Se debe hacer lo más pronto y temprano posible. 
+        El problema más frecuente es que el ED sobreestime tiempos y el SM subestime. Se tiene que hacer las paces, negociar. Es válido comunicar algunos colchones de tiempo extra digno. Ser sinceros. 
+            Herramienta: variable pero puede ser notion u otras. 
+    Daily SCRUM. Reunión diaria de máximo 15 minutos. El ED actualiza sobre el progreso hasta el momento. 
+        Responde ¿Qué hice ayer? ¿Qué haré hoy? ¿Hay algún impedimento?. objetivo: identificar obstáculos y fomentar la colaboración entre los miembros del equipo. 
+    
+    
+
+
+
+
 
 
 
